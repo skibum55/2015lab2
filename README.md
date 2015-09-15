@@ -1,3 +1,4 @@
+[![Binder](http://mybinder.org/badge.svg)](http://mybinder.org/repo/skibum55/2015lab2)
 # 2015lab2
 
 ## Requirements:
